@@ -1,1 +1,1 @@
-# wddingTime
+# weddingTime
